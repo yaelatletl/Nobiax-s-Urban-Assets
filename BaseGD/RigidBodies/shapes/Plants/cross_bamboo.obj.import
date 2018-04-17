@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cross_bamboo.obj-2c16f75f4d98c8b726879e2dfa7b9584.mesh"
+
+[deps]
+
+files=[ "res://.import/cross_bamboo.obj-2c16f75f4d98c8b726879e2dfa7b9584.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cross_bamboo.obj"
+source_md5="34884e52aaebd1c9d3ce677654b0b876"
+
+dest_files=[ "res://.import/cross_bamboo.obj-2c16f75f4d98c8b726879e2dfa7b9584.mesh", "res://.import/cross_bamboo.obj-2c16f75f4d98c8b726879e2dfa7b9584.mesh" ]
+dest_md5="0ae8e217bc1347b88849ae075890cdc4"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

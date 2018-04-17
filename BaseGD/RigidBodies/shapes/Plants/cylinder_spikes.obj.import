@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cylinder_spikes.obj-2b0f6d45ccf9281b3084c701b5cc391a.mesh"
+
+[deps]
+
+files=[ "res://.import/cylinder_spikes.obj-2b0f6d45ccf9281b3084c701b5cc391a.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cylinder_spikes.obj"
+source_md5="81596779d6f78b7af589c61d5b64cdf9"
+
+dest_files=[ "res://.import/cylinder_spikes.obj-2b0f6d45ccf9281b3084c701b5cc391a.mesh", "res://.import/cylinder_spikes.obj-2b0f6d45ccf9281b3084c701b5cc391a.mesh" ]
+dest_md5="9275e9a43c635154f81385304890392e"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

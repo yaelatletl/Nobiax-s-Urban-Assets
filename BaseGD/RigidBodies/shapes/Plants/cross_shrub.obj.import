@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cross_shrub.obj-b01ee11d1563460e6f54dd638be24bea.mesh"
+
+[deps]
+
+files=[ "res://.import/cross_shrub.obj-b01ee11d1563460e6f54dd638be24bea.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cross_shrub.obj"
+source_md5="456a6819f6467657c9894a221e499397"
+
+dest_files=[ "res://.import/cross_shrub.obj-b01ee11d1563460e6f54dd638be24bea.mesh", "res://.import/cross_shrub.obj-b01ee11d1563460e6f54dd638be24bea.mesh" ]
+dest_md5="c33db448a6f2d366151b9be05310b630"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

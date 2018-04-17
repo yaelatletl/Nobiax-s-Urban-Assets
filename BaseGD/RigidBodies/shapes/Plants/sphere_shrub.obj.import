@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sphere_shrub.obj-d512f3f6d1bcc8bbb5276182486c6e56.mesh"
+
+[deps]
+
+files=[ "res://.import/sphere_shrub.obj-d512f3f6d1bcc8bbb5276182486c6e56.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/sphere_shrub.obj"
+source_md5="53e171a14c23eee6348e76ed7875423c"
+
+dest_files=[ "res://.import/sphere_shrub.obj-d512f3f6d1bcc8bbb5276182486c6e56.mesh", "res://.import/sphere_shrub.obj-d512f3f6d1bcc8bbb5276182486c6e56.mesh" ]
+dest_md5="8963406c0a0a38c74bfaf333eeb57773"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

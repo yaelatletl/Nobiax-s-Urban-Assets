@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/triangle_shrub.obj-7adce89722c20394a7e8343bde6f8158.mesh"
+
+[deps]
+
+files=[ "res://.import/triangle_shrub.obj-7adce89722c20394a7e8343bde6f8158.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/triangle_shrub.obj"
+source_md5="9a7013db6ce60483c5581dbe26dd596d"
+
+dest_files=[ "res://.import/triangle_shrub.obj-7adce89722c20394a7e8343bde6f8158.mesh", "res://.import/triangle_shrub.obj-7adce89722c20394a7e8343bde6f8158.mesh" ]
+dest_md5="3b90622bd77b5ca3aa6accbbaff3a9ad"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

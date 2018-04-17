@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cardboard_tube.obj-8bdfe1684fb7a79a53d2ce0ce05b7089.mesh"
+
+[deps]
+
+files=[ "res://.import/cardboard_tube.obj-8bdfe1684fb7a79a53d2ce0ce05b7089.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Cardboard/cardboard_tube.obj"
+source_md5="3bf743e3fdd1ad6b61ddfe46262c122f"
+
+dest_files=[ "res://.import/cardboard_tube.obj-8bdfe1684fb7a79a53d2ce0ce05b7089.mesh", "res://.import/cardboard_tube.obj-8bdfe1684fb7a79a53d2ce0ce05b7089.mesh" ]
+dest_md5="294caf1ecb846222cf8f1059f3953854"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

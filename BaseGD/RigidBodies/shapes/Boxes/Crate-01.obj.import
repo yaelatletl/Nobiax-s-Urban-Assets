@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Crate-01.obj-868d9b330c14cab2336322002c5feea5.mesh"
+
+[deps]
+
+files=[ "res://.import/Crate-01.obj-868d9b330c14cab2336322002c5feea5.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Boxes/Crate-01.obj"
+source_md5="d473a6566702ccf4c9126562f05dabed"
+
+dest_files=[ "res://.import/Crate-01.obj-868d9b330c14cab2336322002c5feea5.mesh", "res://.import/Crate-01.obj-868d9b330c14cab2336322002c5feea5.mesh" ]
+dest_md5="4ae3d43cb3699dbf1f805980fa41c117"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/triangle_spikes.obj-d811164ad7dc718806976b38719cb420.mesh"
+
+[deps]
+
+files=[ "res://.import/triangle_spikes.obj-d811164ad7dc718806976b38719cb420.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/triangle_spikes.obj"
+source_md5="77d54586774affb5ac44d396cf7c30e8"
+
+dest_files=[ "res://.import/triangle_spikes.obj-d811164ad7dc718806976b38719cb420.mesh", "res://.import/triangle_spikes.obj-d811164ad7dc718806976b38719cb420.mesh" ]
+dest_md5="dd963fdc3fafb31b1752d5b2c55ffdfb"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

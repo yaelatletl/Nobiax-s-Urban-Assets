@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cardboard_closed.obj-40326ea118d00b3c8a865cbd4806aba8.mesh"
+
+[deps]
+
+files=[ "res://.import/cardboard_closed.obj-40326ea118d00b3c8a865cbd4806aba8.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Cardboard/cardboard_closed.obj"
+source_md5="caca760ff1e81419cdd77a95aca4032c"
+
+dest_files=[ "res://.import/cardboard_closed.obj-40326ea118d00b3c8a865cbd4806aba8.mesh", "res://.import/cardboard_closed.obj-40326ea118d00b3c8a865cbd4806aba8.mesh" ]
+dest_md5="f70de7e93f1c95e1affdc4ccceb35833"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

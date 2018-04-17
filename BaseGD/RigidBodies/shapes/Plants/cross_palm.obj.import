@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cross_palm.obj-546b9e68ecaf12d8a2c702089743cbb3.mesh"
+
+[deps]
+
+files=[ "res://.import/cross_palm.obj-546b9e68ecaf12d8a2c702089743cbb3.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cross_palm.obj"
+source_md5="f0f211cf25b8b33a937dfcac4a8f5209"
+
+dest_files=[ "res://.import/cross_palm.obj-546b9e68ecaf12d8a2c702089743cbb3.mesh", "res://.import/cross_palm.obj-546b9e68ecaf12d8a2c702089743cbb3.mesh" ]
+dest_md5="eec6a971435d5b04c8a46c72a4a8b0c0"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

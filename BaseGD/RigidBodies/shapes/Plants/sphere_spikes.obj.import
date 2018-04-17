@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sphere_spikes.obj-4eef919c7f5170035b1511c5ee687255.mesh"
+
+[deps]
+
+files=[ "res://.import/sphere_spikes.obj-4eef919c7f5170035b1511c5ee687255.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/sphere_spikes.obj"
+source_md5="f9649aa272b6bc6ab7a0d818e20092b3"
+
+dest_files=[ "res://.import/sphere_spikes.obj-4eef919c7f5170035b1511c5ee687255.mesh", "res://.import/sphere_spikes.obj-4eef919c7f5170035b1511c5ee687255.mesh" ]
+dest_md5="9d45e819cd0e220544aa5caf8c460bf6"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

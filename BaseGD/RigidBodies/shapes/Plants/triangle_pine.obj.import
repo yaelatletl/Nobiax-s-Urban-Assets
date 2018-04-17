@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/triangle_pine.obj-c46ffbb187dcbb9e513ee61cc411c0ff.mesh"
+
+[deps]
+
+files=[ "res://.import/triangle_pine.obj-c46ffbb187dcbb9e513ee61cc411c0ff.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/triangle_pine.obj"
+source_md5="3037b95065ff2261f53bd943e5635008"
+
+dest_files=[ "res://.import/triangle_pine.obj-c46ffbb187dcbb9e513ee61cc411c0ff.mesh", "res://.import/triangle_pine.obj-c46ffbb187dcbb9e513ee61cc411c0ff.mesh" ]
+dest_md5="d3e252ab95893b29d5e5c7da40650d27"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

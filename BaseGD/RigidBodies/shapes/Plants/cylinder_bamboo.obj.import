@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cylinder_bamboo.obj-ec6d83604b883ead726614b7bf81ed0f.mesh"
+
+[deps]
+
+files=[ "res://.import/cylinder_bamboo.obj-ec6d83604b883ead726614b7bf81ed0f.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cylinder_bamboo.obj"
+source_md5="bf41f697ce13cba75cf95e31fbf534c7"
+
+dest_files=[ "res://.import/cylinder_bamboo.obj-ec6d83604b883ead726614b7bf81ed0f.mesh", "res://.import/cylinder_bamboo.obj-ec6d83604b883ead726614b7bf81ed0f.mesh" ]
+dest_md5="049e7b26838c16ff7098b6964c23cd00"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

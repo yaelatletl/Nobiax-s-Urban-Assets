@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cross_spikes.obj-92232285c80a93d61c9ca05a761225bf.mesh"
+
+[deps]
+
+files=[ "res://.import/cross_spikes.obj-92232285c80a93d61c9ca05a761225bf.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cross_spikes.obj"
+source_md5="c27f55125e50e291de6e5712d5ca3e0b"
+
+dest_files=[ "res://.import/cross_spikes.obj-92232285c80a93d61c9ca05a761225bf.mesh", "res://.import/cross_spikes.obj-92232285c80a93d61c9ca05a761225bf.mesh" ]
+dest_md5="ef96aa998a3b8ce3d296ac969ab59248"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

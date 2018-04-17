@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/square_spikes.obj-1efc15342929a543662ede56005fd041.mesh"
+
+[deps]
+
+files=[ "res://.import/square_spikes.obj-1efc15342929a543662ede56005fd041.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/square_spikes.obj"
+source_md5="a288a2ccf8feda576749f63c59853c5e"
+
+dest_files=[ "res://.import/square_spikes.obj-1efc15342929a543662ede56005fd041.mesh", "res://.import/square_spikes.obj-1efc15342929a543662ede56005fd041.mesh" ]
+dest_md5="2ff5f71b840025150a0676b18227b6f0"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/trash_04.obj-bda13e5747b004376e35bf1fc3204ddb.mesh"
+
+[deps]
+
+files=[ "res://.import/trash_04.obj-bda13e5747b004376e35bf1fc3204ddb.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Trashes/03/trash_04.obj"
+source_md5="2ae0f0b0773df3907484ad34f19daa18"
+
+dest_files=[ "res://.import/trash_04.obj-bda13e5747b004376e35bf1fc3204ddb.mesh", "res://.import/trash_04.obj-bda13e5747b004376e35bf1fc3204ddb.mesh" ]
+dest_md5="b827a382ec45c50d49f6abef84a21280"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

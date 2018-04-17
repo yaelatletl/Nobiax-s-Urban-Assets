@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sphere_palm.obj-1d4093bd19949711ef0066fccca3252e.mesh"
+
+[deps]
+
+files=[ "res://.import/sphere_palm.obj-1d4093bd19949711ef0066fccca3252e.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/sphere_palm.obj"
+source_md5="f463fa08977a42807cc334fa9e92545d"
+
+dest_files=[ "res://.import/sphere_palm.obj-1d4093bd19949711ef0066fccca3252e.mesh", "res://.import/sphere_palm.obj-1d4093bd19949711ef0066fccca3252e.mesh" ]
+dest_md5="ca9309e8ae7a22b9488e6c96c1d798bc"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

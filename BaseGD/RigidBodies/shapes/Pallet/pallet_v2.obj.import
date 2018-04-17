@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pallet_v2.obj-6886608485a9c62eb31f7e848ad98631.mesh"
+
+[deps]
+
+files=[ "res://.import/pallet_v2.obj-6886608485a9c62eb31f7e848ad98631.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Pallet/pallet_v2.obj"
+source_md5="14127b901742258b41671fdd0981d3f2"
+
+dest_files=[ "res://.import/pallet_v2.obj-6886608485a9c62eb31f7e848ad98631.mesh", "res://.import/pallet_v2.obj-6886608485a9c62eb31f7e848ad98631.mesh" ]
+dest_md5="f5df7b7344ca7d6fbb18c05da0f27e30"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

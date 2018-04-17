@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cross_pine.obj-18999b46d4b89309aa6ca1ec97ea8475.mesh"
+
+[deps]
+
+files=[ "res://.import/cross_pine.obj-18999b46d4b89309aa6ca1ec97ea8475.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cross_pine.obj"
+source_md5="699d51ea0caaf7d175ffaae67b1f0a4a"
+
+dest_files=[ "res://.import/cross_pine.obj-18999b46d4b89309aa6ca1ec97ea8475.mesh", "res://.import/cross_pine.obj-18999b46d4b89309aa6ca1ec97ea8475.mesh" ]
+dest_md5="597f5fd91132c993295a01462e7c44d5"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sphere_pine.obj-8cb6c6b15c49b6efd066af9baeefb181.mesh"
+
+[deps]
+
+files=[ "res://.import/sphere_pine.obj-8cb6c6b15c49b6efd066af9baeefb181.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/sphere_pine.obj"
+source_md5="09fe4d3add759905ff680829b7ea6a09"
+
+dest_files=[ "res://.import/sphere_pine.obj-8cb6c6b15c49b6efd066af9baeefb181.mesh", "res://.import/sphere_pine.obj-8cb6c6b15c49b6efd066af9baeefb181.mesh" ]
+dest_md5="2daace851f4b1df70921e6db7f5f7e9c"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )

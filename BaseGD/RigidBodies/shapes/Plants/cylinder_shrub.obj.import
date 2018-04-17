@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cylinder_shrub.obj-2f00ad04712c756550ef6e637d5e1301.mesh"
+
+[deps]
+
+files=[ "res://.import/cylinder_shrub.obj-2f00ad04712c756550ef6e637d5e1301.mesh" ]
+
+source_file="res://BaseGD/RigidBodies/shapes/Plants/cylinder_shrub.obj"
+source_md5="455017f7196b3252ea0498beab8d573e"
+
+dest_files=[ "res://.import/cylinder_shrub.obj-2f00ad04712c756550ef6e637d5e1301.mesh", "res://.import/cylinder_shrub.obj-2f00ad04712c756550ef6e637d5e1301.mesh" ]
+dest_md5="cd0d67ded19cd9817db5f2b115df111b"
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
